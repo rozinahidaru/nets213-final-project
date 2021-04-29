@@ -34,3 +34,17 @@ The data folder contains all the raw images of the children's rhyme/song to be t
 The code the deals with the quality control and aggregation is located in the source folder in the files transcribe_qc_aggregation.py and translate_qc_aggregation.py. 
 Sample outputs for the transcription and translation are also located in the source folder in the files sample_output_transcribe.csv and sample_output_translation.csv. 
 
+## How To Contribute
+Our project can be reached at this link: https://workersandbox.mturk.com/projects/30814BGWWGM42J1SX8Z2CTJJKDDH25/tasks?ref=w_pl_prvw.
+
+1. Open the link to our MTurk project
+2. The original nursery rhyme is put through Google Translate for a preliminary translation.
+3. If you are bilingual (fluent in both English and the original language) you are qualified to complete translation tasks. 
+4. A translation task involves making edits to the Google Translate version to fix any errors and make it more coherent. 
+5. We will then run quality checks to choose the best translation. 
+6. That’s it! Thank you for contributing to our project. 
+
+If you have any questions, please contact: Riya Narayan (riyan@seas.upenn.edu)
+
+
+
